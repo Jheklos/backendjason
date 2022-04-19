@@ -8,5 +8,18 @@
     "id": 2,
     "body": "some comment",
     "postId": 1
-  }
+  },
+  {
+	"by": "default",
+	"valid_key": true,
+	"results": {		
+			"sensores": {
+        "temperatura": 26.56,
+				"ph": 25.56,
+				"0d": 15.56				
+			}	
+	},
+	"execution_time": 0,
+	"from_cache": true
+}
 ]
